@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#0A0A0F</color>
+    <color name="card_background">#1A1A24</color>
+    <color name="accent">#D1D5DB</color>
+    <color name="accent_dark">#9CA3AF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_secondary">#99FFFFFF</color>
+    <color name="text_muted">#66FFFFFF</color>
+    
+    <!-- Switch colors -->
+    <color name="switch_thumb">#FFFFFF</color>
+    <color name="switch_track">#4DFFFFFF</color>
+</resources>
